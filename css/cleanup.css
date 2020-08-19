@@ -20,4 +20,12 @@
     height: 622px;
     display: none;
 }
-.parent > #tag-4 
+.parent > #tag-4 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 980px;
+    height: 622px;
+    display: none;
+}
+.parent > #tag-5
