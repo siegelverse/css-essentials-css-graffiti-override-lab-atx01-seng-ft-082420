@@ -36,4 +36,10 @@
     height: 622px;
     display: none;
 }
-.parent > #tag-6 
+.parent > #tag-6 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 980px;
+    height: 622px;
+}
