@@ -4,3 +4,10 @@
     display: none;
     background: url(../images/tag-1.png) no-repeat;
 }
+#tag-2 {
+    position: none;
+    top: 0px;
+    left: 0px;
+    width: 980px;
+    height: 622px;
+}
