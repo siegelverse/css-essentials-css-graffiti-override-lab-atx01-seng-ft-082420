@@ -1,1 +1,52 @@
 /* write your override styles here */
+.tag-1 {
+    z-index: 7;
+    display: none;
+    background: url(../images/tag-1.png) no-repeat;
+}
+#tag-2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 980px;
+    height: 622px;
+    display: none;
+}
+#tag-3 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 980px;
+    height: 622px;
+    display: none;
+}
+.parent > #tag-4 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 980px;
+    height: 622px;
+    display: none;
+}
+.parent > #tag-5 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 980px;
+    height: 622px;
+    display: none;
+}
+.parent > #tag-6 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 980px;
+    height: 622px;
+}
+#tag-7 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 980px;
+    height: 622px;
+}
